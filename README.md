@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Alex, welcome to my profile! <br/>
 👀 I’m interested in web development, mobile development and game development. <br/>
-🌱 I’m currently learning JavaScript, Python and Swift. <br/>
+🌱 I’m currently learning JavaScript, C#, Python and Swift. <br/>
 💞️ In the near future I'm looking to collaborate on open source projects. <br/>
 📫 You can reach me by sending an email at agworksbox@gmail.com <br/>
 😄 My pronouns are he/him/his. <br/>
