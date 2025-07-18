@@ -7,7 +7,7 @@
   * I make electronic music under the alias PITCHPILOT in my spare time (you can find it on SoundCloud)
   * I travel lots (especially between the UK and Italy)
   * I like ARPGs and strategy games
-  * I find cooking for myself and my friends relaxing <br/>
+  * I find cooking and walking my dog relaxing <br/>
 
 <!---
 agworkgit/agworkgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
