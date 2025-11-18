@@ -1,60 +1,141 @@
-# Hi there, I'm Alex 👋  
-**Junior Front-End Developer | React, JavaScript, HTML5/CSS3 | API Integration | Git/GitHub**  
+# 👋 Hi, I'm Alex
 
-I'm a passionate developer building **responsive, accessible, and interactive web applications**. Currently completing my **BSc in Computer Science (Goldsmiths, University of London)** and Meta Full Stack certification, I love turning **UX wireframes into functional, user-friendly applications**.  
+Junior Full Stack Developer | MERN | React | Node.js | TypeScript | Jest | Data & Automation
 
----
+I’m a developer who pivoted into engineering after years managing £1.8M worth of client accounts taught me how to solve problems under pressure.
+One line of JavaScript hooked me — and I’ve since built complete full-stack applications, strengthened my fundamentals through an edX bootcamp, and am now deepening my skills through a Computer Science degree at Goldsmiths.
 
-## 🛠️ Tech Stack
-**Frontend:** React (Hooks, JSX, SPA), JavaScript (ES6+), HTML5, CSS3, SASS, Bootstrap  
-**Tools:** Node.js, NPM, Git/GitHub, Jest, Vitest, DevOps basics  
-**Other Skills:** API Integration, Cross-browser compatibility, SQL, Excel, Tableau, R  
+I build practical, production-minded applications with a strong focus on clean UI, data flows, API integration, and automated testing.
 
----
+# 🛠️ Tech Stack & Tools
+## Languages
 
-## 🚀 Projects
+JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
 
-**[Portfolio Web App](https://alex-grigore.netlify.app)**  
-- React SPA showcasing projects, CV downloads, and education  
-- Accessibility-first features, interactive modals, carousel  
-- [Source Code](https://github.com/agworkgit/ag-netlify-portfolio)  
+## Frontend
 
-**[Travel Fanatix – Daily Travel Planner](https://agworkgit.github.io/travel-fanatix/)**  
-- Multi-destination itinerary planner using DayJS, OpenWeather & Unsplash APIs  
-- Collaborative React project with responsive design  
-- [Source Code](https://github.com/agworkgit/travel-fanatix)  
+React.js (Hooks, Context), Tailwind CSS, SASS, Bootstrap, Responsive Design
 
-**[2D Shooter Game – JavaScript (Vanilla)](https://agworkgit.github.io/js-twodee-shooter/)**  
-- Top-down shooter demonstrating DOM event handling & event-driven programming  
-- [Source Code](https://github.com/agworkgit/js-twodee-shooter)  
+## Backend
 
-**[Professional README Generator – Node.js](https://www.youtube.com/watch?v=s7dbWuTpbjc)**  
-- Automates README generation with dynamic prompts  
-- [Source Code](https://github.com/agworkgit/readme-generator)  
+Node.js, Express, MongoDB, REST APIs, JWT Authentication
 
----
+## Testing
 
-## 📚 Certifications & Learning
-- Front-End Developer Boot Camp — edX (Feb 2023)  
-- JavaScript Foundations — Mozilla (Mar 2025)  
-- HTML & CSS in Depth, Programming with JavaScript, React Basics — Meta (Jan 2024)  
-- Full Stack Development — Meta (In Progress)  
-- Data Analytics — Google (In Progress)  
+Jest (primary), Vitest (secondary), React Testing Library
 
----
+## Tools & DevOps
 
-## 🌱 Currently Learning
-- Advanced React & state management patterns  
-- Full Stack integration (Node.js backend)  
-- Data visualisation with SQL, Tableau & R  
+Git/GitHub (branching, PRs), NPM, Vite, CI/CD, Vercel, Render, Netlify
 
----
+## Data & Analytics
 
-## 📫 Connect with Me
-- Portfolio: [alex-grigore.netlify.app](https://alex-grigore.netlify.app)  
-- LinkedIn: [linkedin.com/in/alex-grigore](https://linkedin.com/in/alex-grigore)  
-- GitHub: [github.com/agworkgit](https://github.com/agworkgit)  
+CSV/JSON handling, dashboard design, PDF generation, Excel automation, Tableau (basic)
 
----
+# 🚀 Featured Projects
+## InsightHub – Full-Stack Data Visualization Platform
 
-> “I believe in building software that’s **not only functional, but also accessible and enjoyable** to use.”
+Turns CSV/JSON data into dynamic dashboards, charts (Recharts), and multi-page PDF reports.
+
+- Built full MERN architecture from scratch
+
+- Secure user auth with JWT + protected routes
+
+- Dynamic drag-and-drop dashboard layout
+
+- Automated PDF export using server-side generation
+
+- Designed for practical business data workflows
+
+**Tech Stack:** React, Node, Express, MongoDB, JWT, Recharts, SASS
+
+**Live:** [Vercel + Render](https://insighthub-frontend-nine.vercel.app/)
+
+**Code:** [GitHub](https://github.com/agworkgit/insighthub/)
+
+## Chef Claude – AI-Powered Recipe Generator
+
+AI cooking assistant generating recipes from user-provided ingredients via GPT-3.5-turbo.
+
+- Migrated from serverless to stable Express backend
+
+- Improved performance and eliminated deployment failures
+
+- Clean UI with focus on accessibility
+
+**Tech Stack:** React, Node, Express, OpenAI API, CSS
+
+**Live:** [Vercel + Render](https://chef-claude-lyart.vercel.app/)
+
+**Code:** [GitHub](https://github.com/agworkgit/chef-claude)
+
+## TaskFlow – Smart Task Manager
+
+Responsive task manager with drag-and-drop, filtering, and visual progress charts.
+
+- Built fully responsive SPA from scratch
+
+- Visualized completion analytics using charting libraries
+
+**Tech Stack:** React, Context API, Recharts, Tailwind
+
+**Live:** [Vercel](https://taskflow-woad-omega.vercel.app/)
+
+**Code:** [GitHub](https://github.com/agworkgit/taskflow)
+
+## Travel Fanatix – Travel Planner (Team Project)
+
+Team-built multi-API travel planner for daily itineraries.
+
+- Worked in a 3-person Agile-style workflow
+
+- Used Git flow, code reviews, and collaborative issue tracking
+
+- Integrated Weather, POI, and Image APIs
+
+**Tech Stack:** JavaScript, APIs, DayJS, Bootstrap, Responsive UI
+
+**Live:** [GitHub Pages](https://agworkgit.github.io/travel-fanatix/)
+
+**Code:** [GitHub](https://github.com/agworkgit/travel-fanatix)
+
+# 🎓 Education & Certifications
+## Goldsmiths, University of London (2024 – Present)
+
+BSc Computer Science (Part - Time)
+
+Core Modules: Programming I & II, Computational Mathematics, Discrete Mathematics
+
+## Professional Certifications
+
+- Meta Full Stack Development — In Progress (Jan 2026)
+
+- Google Data Analytics — In Progress (Feb 2026)
+
+- Meta Front-End Development — Completed
+
+- edX Front-End Developer Boot Camp — Completed
+
+- Mozilla JavaScript Foundations — Completed
+
+# 🌱 Currently Learning
+
+- Advanced React patterns & architecture
+
+- Automated testing with Jest + React Testing Library
+
+- Backend engineering patterns with Node + Express
+
+- SQL, Tableau, and broader data analytics workflows
+
+- Strengthening core CS fundamentals (math, algorithms, systems)
+
+# 📫 Connect with Me
+
+**Portfolio:** https://alex-grigore.netlify.app
+
+**LinkedIn:** https://linkedin.com/in/agworklink
+
+**GitHub:** https://github.com/agworkgit
+
+“I’m focused on building real products — clean, accessible, and reliable — while growing into a strong full stack engineer who writes code that lasts.”
