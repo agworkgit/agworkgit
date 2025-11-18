@@ -138,4 +138,4 @@ Core Modules: Programming I & II, Computational Mathematics, Discrete Mathematic
 
 **GitHub:** https://github.com/agworkgit
 
-“I’m focused on building real products — clean, accessible, and reliable — while growing into a strong full stack engineer who writes code that lasts.”
+*“I’m focused on building real products — clean, accessible, and reliable — while growing into a strong full stack engineer who writes code that lasts.”*
