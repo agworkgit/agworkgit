@@ -33,7 +33,7 @@ Git/GitHub (branching, PRs), NPM, Vite, CI/CD, Vercel, Render, Netlify
 CSV/JSON handling, dashboard design, PDF generation, Excel automation, Tableau (basic)
 
 # 🚀 Featured Projects
-## InsightHub – Full-Stack Data Visualization Platform
+## InsightHub – Full-Stack Data Visualisation Platform
 
 Turns CSV/JSON data into dynamic dashboards, charts (Recharts), and multi-page PDF reports.
 
@@ -75,7 +75,7 @@ Responsive task manager with drag-and-drop, filtering, and visual progress chart
 
 - Built fully responsive SPA from scratch
 
-- Visualized completion analytics using charting libraries
+- Visualised completion analytics using charting libraries
 
 **Tech Stack:** React, Context API, Recharts, Tailwind
 
