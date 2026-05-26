@@ -108,19 +108,15 @@ Core Modules: Computational Mathematics, Discrete Mathematics, Fundamentals of C
 
 ## Professional Certifications
 
-- Meta - Full Stack Development — In Progress (Jan 2026)
-
-- Google - Data Analytics — In Progress (Feb 2026)
-
 - Meta - Front-End Development — Completed
 
 - edX - Web Development Boot Camp — Completed
 
 - Mozilla - JavaScript Foundations — Completed
 
-- Scrimba - Advanced JavaScript (Dec 2025)
+- Scrimba - Advanced JavaScript — Completed
 
-- Scrima - The Frontend Developer Career Path (Dec 2025)
+- Scrima - The Frontend Developer Career Path — Completed
 
 # 🌱 Currently Learning
 
