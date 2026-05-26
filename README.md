@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex
 
-Junior Full Stack Developer | MERN | React | Node.js | TypeScript | Jest | Data & Automation
+Full Stack Developer | MERN | React | Node.js | TypeScript | Jest | Data & Automation
 
 I’m a developer who pivoted into engineering after years managing £1.8M worth of client accounts taught me how to solve problems under pressure.
 One line of JavaScript hooked me — and I’ve since built complete full-stack applications, strengthened my fundamentals through an edX bootcamp, and am now deepening my skills through a Computer Science degree at Goldsmiths.
