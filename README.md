@@ -104,7 +104,7 @@ Team-built multi-API travel planner for daily itineraries.
 
 BSc Computer Science (Part - Time)
 
-Core Modules: Programming I & II, Computational Mathematics, Discrete Mathematics
+Core Modules: Computational Mathematics, Discrete Mathematics, Fundamentals of Computer Science, How Computers Work, Programming I & II, Web Development
 
 ## Professional Certifications
 
