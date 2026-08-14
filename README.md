@@ -1,16 +1,19 @@
-# 👋 Hi, I'm Alex
+# Hi, I'm Alex
 
 Full Stack Developer | MERN | React | Node.js | TypeScript | Jest | Data & Automation
 
-I’m a developer who pivoted into engineering after years managing £1.8M worth of client accounts taught me how to solve problems under pressure.
-One line of JavaScript hooked me — and I’ve since built complete full-stack applications, strengthened my fundamentals through an edX bootcamp, and am now deepening my skills through a Computer Science degree at Goldsmiths.
+I pivoted into software engineering after years managing a client portfolio worth £1.8M, my previous experiences have taught me a lot about how to solve business problems under pressure.
 
-I build practical, production-minded applications with a strong focus on clean UI, data flows, API integration, and automated testing.
+However, I got hooked by programming and the field of Computer Science while attending an Agile oriented Web Development bootcamp, where it became clear to me that I could be solving problems in the digital realm for not only one person at a time but for magnitudes more, I’ve since built complete full-stack applications, I put continuous emphasis on strengthening my core fundamentals in data and algorithms, and am now deepening my architectural and computational skills through a Computer Science degree at Goldsmiths.
 
-# 🛠️ Tech Stack & Tools
+# Tech Stack & Tools
+## Operating Systems
+
+Linux, MacOS, Windows
+
 ## Languages
 
-JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
+JavaScript (ES6+), TypeScript, Python, SQL, Shell (Bash), HTML5, CSS3
 
 ## Frontend
 
@@ -26,13 +29,13 @@ Jest (primary), Vitest (secondary), React Testing Library
 
 ## Tools & DevOps
 
-Git/GitHub (branching, PRs), NPM, Vite, CI/CD, Vercel, Render, Netlify
+Git/GitHub (branching, PRs), NPM, Vite, Jenkins, Vercel, Render, Netlify
 
 ## Data & Analytics
 
 CSV/JSON handling, dashboard design, PDF generation, Excel automation, Tableau (basic)
 
-# 🚀 Featured Projects
+# Featured Projects
 ## InsightHub – Full-Stack Data Visualisation Platform
 
 Turns CSV/JSON data into dynamic dashboards, charts (Recharts), and multi-page PDF reports.
@@ -99,7 +102,7 @@ Team-built multi-API travel planner for daily itineraries.
 
 **Code:** [GitHub](https://github.com/agworkgit/travel-fanatix)
 
-# 🎓 Education & Certifications
+# Education & Certifications
 ## Goldsmiths, University of London (2024 – Present)
 
 BSc Computer Science (Part - Time)
@@ -118,19 +121,11 @@ Core Modules: Computational Mathematics, Discrete Mathematics, Fundamentals of C
 
 - Scrima - The Frontend Developer Career Path — Completed
 
-# 🌱 Currently Learning
-
-- Advanced React patterns & architecture
-
-- Automated testing with Jest + React Testing Library
-
-- Backend engineering patterns with Node + Express
-
-- SQL, Tableau, and broader data analytics workflows
+# Currently Learning
 
 - Strengthening core CS fundamentals (math, algorithms, systems)
 
-# 📫 Connect with Me
+# Connect with Me
 
 **Portfolio:** https://alex-grigore.netlify.app
 
