@@ -13,7 +13,13 @@ Linux, MacOS, Windows
 
 ## Languages
 
-JavaScript (ES6+), TypeScript, Python, SQL, Shell (Bash), HTML5, CSS3
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell/Bash](https://img.shields.io/badge/Shell_/_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Frontend
 
@@ -127,10 +133,8 @@ Core Modules: Computational Mathematics, Discrete Mathematics, Fundamentals of C
 
 # Connect with Me
 
-**Portfolio:** https://alex-grigore.netlify.app
-
-**LinkedIn:** https://linkedin.com/in/agworklink
-
-**GitHub:** https://github.com/agworkgit
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://alex-grigore.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agworklink)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agworkgit)
 
 *“I’m focused on building real products — clean, accessible, and reliable — while growing into a strong full stack engineer who writes code that lasts.”*
