@@ -1,4 +1,4 @@
-# Hi, I'm Alex
+# Hi, I'm Alex!
 
 Full Stack Developer | MERN | React | Node.js | TypeScript | Jest | Data & Automation
 
